@@ -1,5 +1,10 @@
 # SLHS Namecards
 
+> [!WARNING]  
+> Commit history only has a few commits becauase I had to delete the `.git` folder and recreate the repo. Apologies for that.
+
+*This project wont be touched for probably the next year, as it is for pre-school year prep*
+
 Gives back the order in which to order business cards based on scanned barcodes (studnet id's), by referencing csv files.
 Contains helpful debugging information, and safegaurds.
 
